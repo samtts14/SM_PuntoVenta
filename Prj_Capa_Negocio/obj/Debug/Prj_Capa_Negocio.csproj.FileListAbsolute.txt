@@ -1,0 +1,22 @@
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Archivos de Visual Studio\Proyectos 2019\Proyectos en CSharp\Microsell Lite\Sln_MicrosellLite\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.dll
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Negocio.pdb
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.dll
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.dll
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Datos.pdb
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\bin\Debug\Prj_Capa_Entidad.pdb
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csprojAssemblyReference.cache
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CoreCompileInputs.cache
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.csproj.CopyComplete
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.dll
+D:\Archivos Punto de venta\Sln_MicrosellLite Sql\Prj_Capa_Negocio\obj\Debug\Prj_Capa_Negocio.pdb
